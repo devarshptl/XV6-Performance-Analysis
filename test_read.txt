@@ -1,0 +1,50 @@
+Block Size: 1 Byte
+  No Cache:
+      Performance: 7.67 MB/s
+  With Cache:
+      Performance: 7.73 MB/s
+Block Size: 4 Byte
+  No Cache:
+      Performance: 30.70 MB/s
+  With Cache:
+      Performance: 30.74 MB/s
+Block Size: 16 Byte
+  No Cache:
+      Performance: 116.46 MB/s
+  With Cache:
+      Performance: 118.69 MB/s
+Block Size: 32 Byte
+  No Cache:
+      Performance: 216.47 MB/s
+  With Cache:
+      Performance: 223.14 MB/s
+Block Size: 64 Byte
+  No Cache:
+      Performance: 362.95 MB/s
+  With Cache:
+      Performance: 397.38 MB/s
+Block Size: 128 Byte
+  No Cache:
+      Performance: 545.76 MB/s
+  With Cache:
+      Performance: 677.61 MB/s
+Block Size: 512 Byte
+  No Cache:
+      Performance: 711.68 MB/s
+  With Cache:
+      Performance: 1362.41 MB/s
+Block Size: 1024 Byte
+  No Cache:
+      Performance: 735.73 MB/s
+  With Cache:
+      Performance: 1540.13 MB/s
+Block Size: 4096 Byte
+  No Cache:
+      Performance: 818.46 MB/s
+  With Cache:
+      Performance: 1504.96 MB/s
+Block Size: 8192 Byte
+  No Cache:
+      Performance: 775.12 MB/s
+  With Cache:
+      Performance: 1815.08 MB/s

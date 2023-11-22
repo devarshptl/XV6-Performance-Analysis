@@ -1,0 +1,60 @@
+File Size: 4 MB, Block Size: 128 Byte
+Runtime (microseconds): 24603
+Performance is: 162.58 MB/s
+File Size: 4 MB, Block Size: 512 Byte
+Runtime (microseconds): 5903
+Performance is: 677.58 MB/s
+File Size: 4 MB, Block Size: 1024 Byte
+Runtime (microseconds): 3959
+Performance is: 1010.29 MB/s
+File Size: 4 MB, Block Size: 4096 Byte
+Runtime (microseconds): 1564
+Performance is: 2556.07 MB/s
+File Size: 8 MB, Block Size: 128 Byte
+Runtime (microseconds): 48711
+Performance is: 164.23 MB/s
+File Size: 8 MB, Block Size: 512 Byte
+Runtime (microseconds): 13146
+Performance is: 608.55 MB/s
+File Size: 8 MB, Block Size: 1024 Byte
+Runtime (microseconds): 7055
+Performance is: 1133.87 MB/s
+File Size: 8 MB, Block Size: 4096 Byte
+Runtime (microseconds): 3410
+Performance is: 2345.89 MB/s
+File Size: 16 MB, Block Size: 128 Byte
+Runtime (microseconds): 91718
+Performance is: 174.45 MB/s
+File Size: 16 MB, Block Size: 512 Byte
+Runtime (microseconds): 24838
+Performance is: 644.17 MB/s
+File Size: 16 MB, Block Size: 1024 Byte
+Runtime (microseconds): 14124
+Performance is: 1132.82 MB/s
+File Size: 16 MB, Block Size: 4096 Byte
+Runtime (microseconds): 5658
+Performance is: 2827.67 MB/s
+File Size: 32 MB, Block Size: 128 Byte
+Runtime (microseconds): 188598
+Performance is: 169.67 MB/s
+File Size: 32 MB, Block Size: 512 Byte
+Runtime (microseconds): 50461
+Performance is: 634.15 MB/s
+File Size: 32 MB, Block Size: 1024 Byte
+Runtime (microseconds): 28014
+Performance is: 1142.29 MB/s
+File Size: 32 MB, Block Size: 4096 Byte
+Runtime (microseconds): 11276
+Performance is: 2837.70 MB/s
+File Size: 64 MB, Block Size: 128 Byte
+Runtime (microseconds): 368852
+Performance is: 173.51 MB/s
+File Size: 64 MB, Block Size: 512 Byte
+Runtime (microseconds): 98851
+Performance is: 647.44 MB/s
+File Size: 64 MB, Block Size: 1024 Byte
+Runtime (microseconds): 54382
+Performance is: 1176.86 MB/s
+File Size: 64 MB, Block Size: 4096 Byte
+Runtime (microseconds): 21996
+Performance is: 2909.62 MB/s
